@@ -20,7 +20,6 @@ $url = "http://www.huya.com/cfyimei";
 //zhanqi
 $url = "http://www.zhanqi.tv/199716com";
 
-
 //douyu
 $url = "http://www.douyutv.com/512594";
 
