@@ -10,8 +10,8 @@
 ## 使用说明
 
 ```php
-
 include __DIR__ . '/vendor/autoload.php';
+
 use Rango\Tv\Status;
 
 //huya
