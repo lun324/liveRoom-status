@@ -4,7 +4,7 @@
 
 ## 安装
 
-    composer require zhuzhenyu/tv-status
+    composer require "zhuzhenyu/tv-status"
 
 
 ## 使用说明
