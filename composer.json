@@ -2,7 +2,8 @@
     "name": "zhuzhenyu/tv-status",
     "description": "游戏直播网站直播间状态检测",
     "keywords": ["Douyu", "huya", "zhanqi"],
-    "homepage": "https://zhuzhenyu.org",
+    "homepage": "https://github.com/zhuzhenyu",
+    "minimum-stability": "dev",
     "require": {
         "php": ">= 5.4.0",
         "guzzlehttp/guzzle": "^6.1"
