@@ -1,0 +1,25 @@
+{
+    "name": "zhuzhenyu/tv-status",
+    "description": "游戏直播网站直播间状态检测",
+    "keywords": ["Douyu", "huya", "zhanqi"],
+    "homepage": "https://zhuzhenyu.org",
+    "require": {
+        "php": ">= 5.4.0",
+        "guzzlehttp/guzzle": "^6.1",
+    },
+    "suggest": {
+         "monolog/monolog": "^1.17"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhuzhenyu",
+            "email": "zhuzhenyu307@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rango\\Tv\\": "src"
+        }
+    }
+}
