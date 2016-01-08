@@ -5,7 +5,7 @@
     "homepage": "https://zhuzhenyu.org",
     "require": {
         "php": ">= 5.4.0",
-        "guzzlehttp/guzzle": "^6.1",
+        "guzzlehttp/guzzle": "^6.1"
     },
     "suggest": {
          "monolog/monolog": "^1.17"
