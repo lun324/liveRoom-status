@@ -4,7 +4,7 @@
 
 ## 安装
 
-    php composer.phar require Rango/Tv
+    composer require zhuzhenyu/tv-status
 
 
 ## 使用说明
